@@ -1,5 +1,5 @@
 tensorflow
-pandas
+pandas 
 dvc
 mlflow
 notebook
@@ -11,7 +11,7 @@ pyYAML
 tqdm
 ensure
 joblib
-types-pyYAML
+types-PyYAML
 scipy
 Flask
 Flask-Cors
